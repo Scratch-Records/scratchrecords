@@ -122,13 +122,12 @@ flex-direction: column;
 }
 @media screen and (max-width: 400px){
     .brand{
-        font-size: 1.7rem;
+        font-size: 1.6rem;
     }
 }
 #Container-landing{
     height: 100vh;
     width: 100%;
-
     display: flex;
     justify-content: center;
     align-items: center;
