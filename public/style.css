@@ -459,4 +459,7 @@ font-weight: 450;
         background-size:initial;
         background-repeat: no-repeat;
     }
+    .contact-wrapper{
+    padding:2rem 0 2rem 0;
+    }
 } 
