@@ -221,7 +221,14 @@ input{
 }
 .contact-wrapper{
 background-color: var(--normal-background);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
 
+}
+.contact-wrapper a{
+text-decoration:none;
 }
 .msg{
     width: 23rem;
