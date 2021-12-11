@@ -19,5 +19,3 @@ function closeMenu(){
     Menudiv.classList.remove("active");
 }
 
-
-
